@@ -1,6 +1,7 @@
 Record=TopLevelDocument|FileName=Control.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Control.SchDoc|FileName=Misc.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Control.SchDoc|FileName=Misc.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=Control.SchDoc|FileName=PDN.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Control.SchDoc|FileName=RX_DP.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Control.SchDoc|FileName=Supplies.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=Control.SchDoc|FileName=TX0.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Control.SchDoc|FileName=TX1.SchDoc|SheetNumber=3
