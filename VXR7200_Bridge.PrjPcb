@@ -422,10 +422,44 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NANPNLYC
+DocumentUniqueId=LJLOORKV
 
 [Document23]
 DocumentPath=VXR7200_Bridge.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -458,171 +492,399 @@ DocumentPath=Project Outputs for VXR7200_Bridge\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom__s_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\board_outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom__s_\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\core_1\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\core_2\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_4\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_5\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_6\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_7\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_6\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_7\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_8\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l2__hs_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_9\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l3__gnd_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_mid2-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l4__vcc_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l5__s_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_top-mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l6_s__\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_mid2-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l7__vcc_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l8__gnd_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_top-mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l9__vcc_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top__gnd_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l2__hs_\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l3__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\matrix\matrix
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l4__vcc_\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l5__s_\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for VXR7200_Bridge\Net Status - PCB.html
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l6_s__\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB.REP
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l7__vcc_\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\user\PCB.RUL
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l8__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\profile
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l9__vcc_\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_11\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for VXR7200_Bridge\VXR7200_Bridge.nsx
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top__gnd_\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for VXR7200_Bridge\Net Status - PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\user\PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Board_Outline.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Capping.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Filling.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_11.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\tools
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for VXR7200_Bridge\VXR7200_Bridge.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument102]
 DocumentPath=Simulation\VXR7200_Bridge.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=VXR7200_Bridge.sdf
 DItemRevisionGUID=
 
 [Configuration1]
@@ -641,6 +903,126 @@ ProfileId0=XBSYDCNT
 ProfileName0=Mixed Sim Configuration
 OutputType0=AdvSimNetlist
 ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|TRAN_FourierAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=V2|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=V2|DC_PrimaryStart=1|DC_PrimaryStop=10|DC_PrimaryStep=1|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=1K|Noise_Start=1K|Noise_Stop_UserValue=1G|Noise_Stop=1G|Noise_TestPoints_UserValue=10|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|AC_StartFrequency_UserValue=1K|AC_StartFrequency=1K|AC_StopFrequency_UserValue=1G|AC_StopFrequency=1G|AC_TestPoints_UserValue=10|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=5.000u|TRAN_StepTime_UserValue=|TRAN_StepTime=40.00n|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=40.00n|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=1.000M|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=R10|ParamSweep_Type1=LIN|ParamSweep_Start1=5.000k|ParamSweep_Stop1=15.00k|ParamSweep_Step1=1.000k|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|SheetsToNetlist=0|ParamSweep_CustomStart0_UserValue=|ParamSweep_CustomStop0_UserValue=|ParamSweep_CustomStep0_UserValue=|ParamSweep_Start1_UserValue=|ParamSweep_Stop1_UserValue=|ParamSweep_Step1_UserValue=|Sensitivity_ParameterDeviation0_UserValue=|LaunchDate=2022-04-03 00:53:23Z|DC_CustomStart0_UserValue=|DC_CustomStop0_UserValue=|DC_CustomStep0_UserValue=|DC_PrimaryStart_UserValue=|DC_PrimaryStop_UserValue=|DC_PrimaryStep_UserValue=|DC_CustomEnabled0=True|DC_CustomSource0=V2|DC_CustomStart0=1|DC_CustomStop0=10|DC_CustomStep0=1|AC_VariableEnabled0=True|AC_XVariable0=|AC_Variable0=dB(v(+1.0)/v(fb1))|AC_VariableName0=|AC_VariableUnits0=|AC_VariablePlot0=0|AC_VariableAxis0=0|AC_VariableColor0=8635576|AC_VariableEnabled1=True|AC_XVariable1=|AC_Variable1=v(+1.8)/v(fb2)|AC_VariableName1=dB(v(+1.8)/v(fb2))|AC_VariableUnits1=|AC_VariablePlot1=0|AC_VariableAxis1=0|AC_VariableColor1=15247697|AC_VariableEnabled2=True|AC_XVariable2=|AC_Variable2=v(+3.3)/v(fb3)|AC_VariableName2=dB(v(+3.3)/v(fb3))|AC_VariableUnits2=|AC_VariablePlot2=0|AC_VariableAxis2=0|AC_VariableColor2=9869036|AC_VariableEnabled3=True|AC_XVariable3=|AC_Variable3=v(+1.0)/v(fb1)|AC_VariableName3=PHASE(v(+1.0)/v(fb1))|AC_VariableUnits3=|AC_VariablePlot3=0|AC_VariableAxis3=0|AC_VariableColor3=9552971|AC_VariableEnabled4=True|AC_XVariable4=|AC_Variable4=v(+1.8)/v(fb2)|AC_VariableName4=PHASE(v(+1.8)/v(fb2))|AC_VariableUnits4=|AC_VariablePlot4=0|AC_VariableAxis4=0|AC_VariableColor4=8165537|AC_VariableEnabled5=True|AC_XVariable5=|AC_Variable5=v(+3.3)/v(fb3)|AC_VariableName5=PHASE(v(+3.3)/v(fb3))|AC_VariableUnits5=|AC_VariablePlot5=0|AC_VariableAxis5=0|AC_VariableColor5=14384603|ParamSweep_CustomEnabled0=True|ParamSweep_CustomParameter0=R10|ParamSweep_CustomType0=LIN|ParamSweep_CustomStart0=5.000k|ParamSweep_CustomStop0=15.00k|ParamSweep_CustomStep0=1.000k|Sensitivity_ParameterEnabled0=True|Sensitivity_Parameter0=R10|Sensitivity_ParameterDeviation0=1m
+
+[Generic_SignalIntegritySimulation]
+SignalIntegrityInitialised=-1
+TrackImpedance=100
+TrackLength=20000000
+UseManhattan=-1
+UseSupplyNetsRules=-1
+SupplyNetsCount=0
+UseStimulusRules=-1
+StimKind=1
+StimLevel=0
+StimStartTime=1E-8
+StimStopTime=6E-8
+StimPeriodTime=1E-7
+
+[Generic_SignalIntegrityPanelSetup]
+TerminationName0=No Termination
+TerminationEnabled0=True
+TerminationSweeps0=1
+TerminationName1=Serial Res
+TerminationEnabled1=False
+TerminationSweeps1=10
+TerminationName2=Parallel Res to VCC
+TerminationEnabled2=False
+TerminationSweeps2=10
+TerminationName3=Parallel Res to GND
+TerminationEnabled3=False
+TerminationSweeps3=10
+TerminationName4=Parallel Res to VCC & GND
+TerminationEnabled4=False
+TerminationSweeps4=10
+TerminationName5=Parallel Cap to GND
+TerminationEnabled5=False
+TerminationSweeps5=10
+TerminationName6=Res and Cap to GND
+TerminationEnabled6=False
+TerminationSweeps6=10
+TerminationName7=Parallel Schottky Diodes
+TerminationEnabled7=False
+TerminationSweeps7=10
+TerminationMinR10=0
+TerminationMaxR10=0
+TerminationPrefR10=0
+TerminationMinR20=0
+TerminationMaxR20=0
+TerminationPrefR20=0
+TerminationMinC0=0
+TerminationMaxC0=0
+TerminationPrefC0=0
+TerminationVCC0=0
+TerminationMinR11=25
+TerminationMaxR11=150
+TerminationPrefR11=47
+TerminationMinR21=0
+TerminationMaxR21=0
+TerminationPrefR21=0
+TerminationMinC1=0
+TerminationMaxC1=0
+TerminationPrefC1=0
+TerminationVCC1=0
+TerminationMinR12=50
+TerminationMaxR12=200
+TerminationPrefR12=100
+TerminationMinR22=0
+TerminationMaxR22=0
+TerminationPrefR22=0
+TerminationMinC2=0
+TerminationMaxC2=0
+TerminationPrefC2=0
+TerminationVCC2=5
+TerminationMinR13=0
+TerminationMaxR13=0
+TerminationPrefR13=0
+TerminationMinR23=50
+TerminationMaxR23=200
+TerminationPrefR23=100
+TerminationMinC3=0
+TerminationMaxC3=0
+TerminationPrefC3=0
+TerminationVCC3=0
+TerminationMinR14=50
+TerminationMaxR14=200
+TerminationPrefR14=100
+TerminationMinR24=50
+TerminationMaxR24=200
+TerminationPrefR24=100
+TerminationMinC4=0
+TerminationMaxC4=0
+TerminationPrefC4=0
+TerminationVCC4=5
+TerminationMinR15=0
+TerminationMaxR15=0
+TerminationPrefR15=0
+TerminationMinR25=0
+TerminationMaxR25=0
+TerminationPrefR25=0
+TerminationMinC5=2.35E-11
+TerminationMaxC5=9.4E-11
+TerminationPrefC5=4.7E-11
+TerminationVCC5=0
+TerminationMinR16=0
+TerminationMaxR16=0
+TerminationPrefR16=0
+TerminationMinR26=34
+TerminationMaxR26=136
+TerminationPrefR26=68
+TerminationMinC6=5E-11
+TerminationMaxC6=2E-10
+TerminationPrefC6=1E-10
+TerminationVCC6=0
+TerminationMinR17=0
+TerminationMaxR17=0
+TerminationPrefR17=0
+TerminationMinR27=0
+TerminationMaxR27=0
+TerminationPrefR27=0
+TerminationMinC7=0
+TerminationMaxC7=0
+TerminationPrefC7=0
+TerminationVCC7=5
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1962,7 +2344,7 @@ OutputDefault6=0
 Configuration6_Name1=ForceUpdateSettings
 Configuration6_Item1=False
 Configuration6_Name2=OutputConfigurationParameter1
-Configuration6_Item2=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=True|IncludeUnconnectedMidLayerPads=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_HighLayer=Mid Layer 2|PlotBlindViasPair0_LowLayer=Mid Layer 1|PlotBlindViasPair0_Plot=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair0_Plot=False|PlotDrillDrawingPair1_DrillType=MicroViaDrill|PlotDrillDrawingPair1_HighLayer=Mid Layer 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair1_Plot=False|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_HighLayer=Mid Layer 2|PlotDrillDrawingPair2_LowLayer=Mid Layer 1|PlotDrillDrawingPair2_Plot=False|PlotDrillDrawingPair3_DrillType=MicroViaDrill|PlotDrillDrawingPair3_HighLayer=Bottom Layer|PlotDrillDrawingPair3_LowLayer=Mid Layer 2|PlotDrillDrawingPair3_Plot=False|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair0_Plot=False|PlotDrillGuidePair1_DrillType=MicroViaDrill|PlotDrillGuidePair1_HighLayer=Mid Layer 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair1_Plot=False|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_HighLayer=Mid Layer 2|PlotDrillGuidePair2_LowLayer=Mid Layer 1|PlotDrillGuidePair2_Plot=False|PlotDrillGuidePair3_DrillType=MicroViaDrill|PlotDrillGuidePair3_HighLayer=Bottom Layer|PlotDrillGuidePair3_LowLayer=Mid Layer 2|PlotDrillGuidePair3_Plot=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=True|PlotInternalPlane5Plot=True|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPair0_DrillType=MicroViaDrill|PlotMicroViasPair0_HighLayer=Mid Layer 1|PlotMicroViasPair0_LowLayer=Top Layer|PlotMicroViasPair0_Plot=True|PlotMicroViasPair1_DrillType=MicroViaDrill|PlotMicroViasPair1_HighLayer=Bottom Layer|PlotMicroViasPair1_LowLayer=Mid Layer 2|PlotMicroViasPair1_Plot=True|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPair0_Plot=False|PlotNPTHPairs=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPair0_Plot=True|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|Units=Metric|DocumentPath=C:\Users\David Kraeutmann\Documents\Altium\SimulaVR\VXR7200_Bridge\PCB.PcbDoc
+Configuration6_Item2=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=True|IncludeUnconnectedMidLayerPads=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 20|Plot_V7_2=True|Plot_V7_2_name=Mechanical Layer 21|Plot_V7_3=True|Plot_V7_3_name=Mechanical Layer 23|PlotBackDrillingPairs=False|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_HighLayer=Mid Layer 2|PlotBlindViasPair0_LowLayer=Mid Layer 1|PlotBlindViasPair0_Plot=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair0_Plot=True|PlotDrillDrawingPair1_DrillType=MicroViaDrill|PlotDrillDrawingPair1_HighLayer=Mid Layer 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair1_Plot=True|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_HighLayer=Mid Layer 2|PlotDrillDrawingPair2_LowLayer=Mid Layer 1|PlotDrillDrawingPair2_Plot=False|PlotDrillDrawingPair3_DrillType=MicroViaDrill|PlotDrillDrawingPair3_HighLayer=Bottom Layer|PlotDrillDrawingPair3_LowLayer=Mid Layer 2|PlotDrillDrawingPair3_Plot=True|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair0_Plot=True|PlotDrillGuidePair1_DrillType=MicroViaDrill|PlotDrillGuidePair1_HighLayer=Mid Layer 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair1_Plot=True|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_HighLayer=Mid Layer 2|PlotDrillGuidePair2_LowLayer=Mid Layer 1|PlotDrillGuidePair2_Plot=False|PlotDrillGuidePair3_DrillType=MicroViaDrill|PlotDrillGuidePair3_HighLayer=Bottom Layer|PlotDrillGuidePair3_LowLayer=Mid Layer 2|PlotDrillGuidePair3_Plot=True|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=True|PlotInternalPlane5Plot=True|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=True|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPair0_DrillType=MicroViaDrill|PlotMicroViasPair0_HighLayer=Mid Layer 1|PlotMicroViasPair0_LowLayer=Top Layer|PlotMicroViasPair0_Plot=True|PlotMicroViasPair1_DrillType=MicroViaDrill|PlotMicroViasPair1_HighLayer=Bottom Layer|PlotMicroViasPair1_LowLayer=Mid Layer 2|PlotMicroViasPair1_Plot=True|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPair0_Plot=False|PlotNPTHPairs=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPair0_Plot=True|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|Units=Metric|DocumentPath=C:\Users\David Kraeutmann\Documents\Altium\SimulaVR\VXR7200_Bridge\PCB.PcbDoc
 OutputType7=Drill
 OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
@@ -1997,6 +2379,10 @@ OutputName12=Gerber Files
 OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=LJLOORKV|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=6|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16842753~1,16842756~1,16777220~1,16777221~1,16842754~1,16842757~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908299~1,16908301~1,16908303~1,16908308~1,16908309~1,16908311~1,16908294~1,16908295~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName=PCB_Profile.gbr|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=PCB_Drawing_1.gbr|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillDrawingLayerPair1_Backdrill=False|PlotDrillDrawingLayerPair1_Checked=True|PlotDrillDrawingLayerPair1_DrillType=MicroViaDrill|PlotDrillDrawingLayerPair1_FileName=PCB_Drawing_2.gbr|PlotDrillDrawingLayerPair1_HighLayer=Mid Layer 1|PlotDrillDrawingLayerPair1_LowLayer=Top Layer|PlotDrillDrawingLayerPair2_Backdrill=False|PlotDrillDrawingLayerPair2_Checked=False|PlotDrillDrawingLayerPair2_DrillType=Regular|PlotDrillDrawingLayerPair2_FileName=PCB_Drawing_3.gbr|PlotDrillDrawingLayerPair2_HighLayer=Mid Layer 2|PlotDrillDrawingLayerPair2_LowLayer=Mid Layer 1|PlotDrillDrawingLayerPair3_Backdrill=False|PlotDrillDrawingLayerPair3_Checked=True|PlotDrillDrawingLayerPair3_DrillType=MicroViaDrill|PlotDrillDrawingLayerPair3_FileName=PCB_Drawing_4.gbr|PlotDrillDrawingLayerPair3_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair3_LowLayer=Mid Layer 2|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=PCB_Drillmap_1.gbr|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair1_Backdrill=False|PlotDrillGuideLayerPair1_Checked=True|PlotDrillGuideLayerPair1_DrillType=MicroViaDrill|PlotDrillGuideLayerPair1_FileName=PCB_Drillmap_2.gbr|PlotDrillGuideLayerPair1_HighLayer=Mid Layer 1|PlotDrillGuideLayerPair1_LowLayer=Top Layer|PlotDrillGuideLayerPair2_Backdrill=False|PlotDrillGuideLayerPair2_Checked=False|PlotDrillGuideLayerPair2_DrillType=Regular|PlotDrillGuideLayerPair2_FileName=PCB_Drillmap_3.gbr|PlotDrillGuideLayerPair2_HighLayer=Mid Layer 2|PlotDrillGuideLayerPair2_LowLayer=Mid Layer 1|PlotDrillGuideLayerPair3_Backdrill=False|PlotDrillGuideLayerPair3_Checked=True|PlotDrillGuideLayerPair3_DrillType=MicroViaDrill|PlotDrillGuideLayerPair3_FileName=PCB_Drillmap_4.gbr|PlotDrillGuideLayerPair3_HighLayer=Bottom Layer|PlotDrillGuideLayerPair3_LowLayer=Mid Layer 2|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UserLayerName.Caption0=PCB_Bottom_3D_Body.gbr|UserLayerName.Caption1=PCB_Paste_Top.gbr|UserLayerName.Caption10=PCB_Soldermask_Bot.gbr|UserLayerName.Caption11=PCB_Copper_Plane_4.gbr|UserLayerName.Caption12=PCB_Copper_Signal_4.gbr|UserLayerName.Caption13=PCB_Copper_Plane_3.gbr|UserLayerName.Caption14=PCB_Filling.gbr|UserLayerName.Caption15=PCB_Copper_Signal_Bot.gbr|UserLayerName.Caption16=PCB_Top_Assembly.gbr|UserLayerName.Caption17=PCB_Capping.gbr|UserLayerName.Caption18=PCB_Mechanical_15.gbr|UserLayerName.Caption19=PCB_Top_Component_Center.gbr|UserLayerName.Caption2=PCB_Legend_Top.gbr|UserLayerName.Caption20=PCB_Copper_Signal_Top.gbr|UserLayerName.Caption21=PCB_Legend_Bot.gbr|UserLayerName.Caption22=PCB_Pads_Top.gbr|UserLayerName.Caption23=PCB_Mechanical_13.gbr|UserLayerName.Caption24=PCB_Bottom_Courtyard.gbr|UserLayerName.Caption25=PCB_Copper_Plane_1.gbr|UserLayerName.Caption26=PCB_Mechanical_11.gbr|UserLayerName.Caption27=PCB_Copper_Signal_2.gbr|UserLayerName.Caption28=PCB_Mechanical_1.gbr|UserLayerName.Caption29=PCB_Bottom_Component_Center.gbr|UserLayerName.Caption3=PCB_Soldermask_Top.gbr|UserLayerName.Caption30=PCB_Copper_Signal_3.gbr|UserLayerName.Caption31=PCB_Top_Courtyard.gbr|UserLayerName.Caption32=PCB_Bottom_Assembly.gbr|UserLayerName.Caption33=PCB_Paste_Bot.gbr|UserLayerName.Caption4=PCB_Board_Outline.gbr|UserLayerName.Caption5=PCB_Top_3D_Body.gbr|UserLayerName.Caption6=PCB_Keep-out.gbr|UserLayerName.Caption7=PCB_Copper_Plane_2.gbr|UserLayerName.Caption8=PCB_Pads_Bot.gbr|UserLayerName.Caption9=PCB_Copper_Signal_1.gbr|UserLayerName.Count=34|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16842757|UserLayerName.Layer12=16777219|UserLayerName.Layer13=16842754|UserLayerName.Layer14=16908294|UserLayerName.Layer15=16842751|UserLayerName.Layer16=16908293|UserLayerName.Layer17=16908295|UserLayerName.Layer18=16908303|UserLayerName.Layer19=16908304|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16777217|UserLayerName.Layer21=16973831|UserLayerName.Layer22=16973848|UserLayerName.Layer23=16908301|UserLayerName.Layer24=16908309|UserLayerName.Layer25=16842753|UserLayerName.Layer26=16908299|UserLayerName.Layer27=16777220|UserLayerName.Layer28=16908289|UserLayerName.Layer29=16908312|UserLayerName.Layer3=16973834|UserLayerName.Layer30=16777221|UserLayerName.Layer31=16908291|UserLayerName.Layer32=16908308|UserLayerName.Layer33=16973833|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16842756|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16777218|DocumentPath=C:\Users\David Kraeutmann\Documents\Altium\SimulaVR\VXR7200_Bridge\PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -2075,97 +2461,97 @@ OutputName2=Text Print
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType3=Text Print
 OutputName3=Text Print
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType4=Text Print
 OutputName4=Text Print
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType5=Text Print
 OutputName5=Text Print
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=Text Print
 OutputName6=Text Print
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType7=Text Print
 OutputName7=Text Print
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType8=Text Print
 OutputName8=Text Print
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType9=Text Print
 OutputName9=Text Print
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType10=Text Print
 OutputName10=Text Print
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType11=Text Print
 OutputName11=Text Print
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Text Print
 OutputName12=Text Print
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType13=Text Print
 OutputName13=Text Print
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType14=Text Print
 OutputName14=Text Print
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType15=Text Print
 OutputName15=Text Print
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType16=Text Print
 OutputName16=Text Print
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType17=Text Print
 OutputName17=Text Print
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup8]
 Name=Validation Outputs
