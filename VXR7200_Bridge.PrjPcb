@@ -475,6 +475,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document26]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
@@ -488,402 +522,406 @@ DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\board_outline\features
+DocumentPath=Project Outputs for VXR7200_Bridge\Fabrication Testpoint Report for PCB.ipc
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_3d_body\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\board_outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom__s_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_assembly\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom__s_\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_courtyard\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_4\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_5\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_6\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_7\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_6\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_8\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_7\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_9\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_8\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_mid2-bottom\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\dielectric_9\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_mid2-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_top-mid1\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_mid2-bottom\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_drawing_top-mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_mid2-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_top-mid1\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_guide_top-mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l2__hs_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l3__gnd_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l2__hs_\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l4__vcc_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l3__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l5__s_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l4__vcc_\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l6_s__\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l5__s_\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l7__vcc_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l6_s__\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l8__gnd_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l7__vcc_\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l9__vcc_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l8__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\l9__vcc_\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_11\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_13\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_11\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_15\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_3d_body\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top__gnd_\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_3d_body\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_assembly\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_courtyard\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_assembly\features
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_courtyard\features
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\matrix\matrix
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB.cvg
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB.EXTREP
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB.cvg
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB.REP
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\user\PCB.RUL
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Board_Outline.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\user\PCB.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_3D_Body.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Board_Outline.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_Assembly.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_3D_Body.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_Component_Center.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_Assembly.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_Courtyard.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_Component_Center.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Capping.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Bottom_Courtyard.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_1.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Capping.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_2.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_3.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_4.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Plane_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_3.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_4.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_1.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_2.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_4.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_1.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drawing_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_2.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_4.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Filling.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Drillmap_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Filling.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_11.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_13.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_11.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_15.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Pads_Bot.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Pads_Top.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Profile.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Soldermask_Top.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_3D_Body.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Assembly.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_3D_Body.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Component_Center.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Assembly.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Courtyard.gbr
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Component_Center.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\profile
+DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Courtyard.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\tools
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\tools
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Simulation\VXR7200_Bridge.sdf
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [GeneratedDocument103]
+DocumentPath=Simulation\VXR7200_Bridge.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument104]
 DocumentPath=VXR7200_Bridge.sdf
 DItemRevisionGUID=
 
@@ -2378,6 +2416,10 @@ OutputName11=Test Point Report
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+Configuration11_Name1=ForceUpdateSettings
+Configuration11_Item1=False
+Configuration11_Name2=OutputConfigurationParameter1
+Configuration11_Item2=AdjacencyDistance=250000|GenerateCSVFormat=False|GenerateIPCFormat=True|GenerateSpreadSheetFormat=False|GenerateTextFormat=False|MergeNetTieNets=True|OriginPosition=Relative|OutlineLayer=56|OutputAdjancencies=True|OutputBoardOutline=True|OutputTraces=True|Record=TestPointView|ReportBottomLayerTestpoints=True|ReportTopLayerTestpoints=True|Units=Metric|DocumentPath=C:\Users\David Kraeutmann\Documents\Altium\SimulaVR\VXR7200_Bridge\PCB.PcbDoc
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
@@ -2386,7 +2428,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=LJLOORKV|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=6|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16842753~1,16842756~1,16777220~1,16777221~1,16842754~1,16842757~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908299~1,16908301~1,16908303~1,16908308~1,16908309~1,16908311~1,16908294~1,16908295~1,16973848~1,16973849~1,16908304~1,16908312~1|PlotBoardProfile=True|PlotBoardProfileFileName=PCB_Profile.gbr|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=PCB_Drawing_1.gbr|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillDrawingLayerPair1_Backdrill=False|PlotDrillDrawingLayerPair1_Checked=True|PlotDrillDrawingLayerPair1_DrillType=MicroViaDrill|PlotDrillDrawingLayerPair1_FileName=PCB_Drawing_2.gbr|PlotDrillDrawingLayerPair1_HighLayer=Mid Layer 1|PlotDrillDrawingLayerPair1_LowLayer=Top Layer|PlotDrillDrawingLayerPair2_Backdrill=False|PlotDrillDrawingLayerPair2_Checked=False|PlotDrillDrawingLayerPair2_DrillType=Regular|PlotDrillDrawingLayerPair2_FileName=PCB_Drawing_3.gbr|PlotDrillDrawingLayerPair2_HighLayer=Mid Layer 2|PlotDrillDrawingLayerPair2_LowLayer=Mid Layer 1|PlotDrillDrawingLayerPair3_Backdrill=False|PlotDrillDrawingLayerPair3_Checked=True|PlotDrillDrawingLayerPair3_DrillType=MicroViaDrill|PlotDrillDrawingLayerPair3_FileName=PCB_Drawing_4.gbr|PlotDrillDrawingLayerPair3_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair3_LowLayer=Mid Layer 2|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=PCB_Drillmap_1.gbr|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair1_Backdrill=False|PlotDrillGuideLayerPair1_Checked=True|PlotDrillGuideLayerPair1_DrillType=MicroViaDrill|PlotDrillGuideLayerPair1_FileName=PCB_Drillmap_2.gbr|PlotDrillGuideLayerPair1_HighLayer=Mid Layer 1|PlotDrillGuideLayerPair1_LowLayer=Top Layer|PlotDrillGuideLayerPair2_Backdrill=False|PlotDrillGuideLayerPair2_Checked=False|PlotDrillGuideLayerPair2_DrillType=Regular|PlotDrillGuideLayerPair2_FileName=PCB_Drillmap_3.gbr|PlotDrillGuideLayerPair2_HighLayer=Mid Layer 2|PlotDrillGuideLayerPair2_LowLayer=Mid Layer 1|PlotDrillGuideLayerPair3_Backdrill=False|PlotDrillGuideLayerPair3_Checked=True|PlotDrillGuideLayerPair3_DrillType=MicroViaDrill|PlotDrillGuideLayerPair3_FileName=PCB_Drillmap_4.gbr|PlotDrillGuideLayerPair3_HighLayer=Bottom Layer|PlotDrillGuideLayerPair3_LowLayer=Mid Layer 2|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UserLayerName.Caption0=PCB_Bottom_3D_Body.gbr|UserLayerName.Caption1=PCB_Paste_Top.gbr|UserLayerName.Caption10=PCB_Soldermask_Bot.gbr|UserLayerName.Caption11=PCB_Copper_Plane_4.gbr|UserLayerName.Caption12=PCB_Copper_Signal_4.gbr|UserLayerName.Caption13=PCB_Copper_Plane_3.gbr|UserLayerName.Caption14=PCB_Filling.gbr|UserLayerName.Caption15=PCB_Copper_Signal_Bot.gbr|UserLayerName.Caption16=PCB_Top_Assembly.gbr|UserLayerName.Caption17=PCB_Capping.gbr|UserLayerName.Caption18=PCB_Mechanical_15.gbr|UserLayerName.Caption19=PCB_Top_Component_Center.gbr|UserLayerName.Caption2=PCB_Legend_Top.gbr|UserLayerName.Caption20=PCB_Copper_Signal_Top.gbr|UserLayerName.Caption21=PCB_Legend_Bot.gbr|UserLayerName.Caption22=PCB_Pads_Top.gbr|UserLayerName.Caption23=PCB_Mechanical_13.gbr|UserLayerName.Caption24=PCB_Bottom_Courtyard.gbr|UserLayerName.Caption25=PCB_Copper_Plane_1.gbr|UserLayerName.Caption26=PCB_Mechanical_11.gbr|UserLayerName.Caption27=PCB_Copper_Signal_2.gbr|UserLayerName.Caption28=PCB_Mechanical_1.gbr|UserLayerName.Caption29=PCB_Bottom_Component_Center.gbr|UserLayerName.Caption3=PCB_Soldermask_Top.gbr|UserLayerName.Caption30=PCB_Copper_Signal_3.gbr|UserLayerName.Caption31=PCB_Top_Courtyard.gbr|UserLayerName.Caption32=PCB_Bottom_Assembly.gbr|UserLayerName.Caption33=PCB_Keep-out.gbr|UserLayerName.Caption4=PCB_Board_Outline.gbr|UserLayerName.Caption5=PCB_Top_3D_Body.gbr|UserLayerName.Caption6=PCB_Pads_Bot.gbr|UserLayerName.Caption7=PCB_Copper_Plane_2.gbr|UserLayerName.Caption8=PCB_Paste_Bot.gbr|UserLayerName.Caption9=PCB_Copper_Signal_1.gbr|UserLayerName.Count=34|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16842757|UserLayerName.Layer12=16777219|UserLayerName.Layer13=16842754|UserLayerName.Layer14=16908294|UserLayerName.Layer15=16842751|UserLayerName.Layer16=16908293|UserLayerName.Layer17=16908295|UserLayerName.Layer18=16908303|UserLayerName.Layer19=16908304|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16777217|UserLayerName.Layer21=16973831|UserLayerName.Layer22=16973848|UserLayerName.Layer23=16908301|UserLayerName.Layer24=16908309|UserLayerName.Layer25=16842753|UserLayerName.Layer26=16908299|UserLayerName.Layer27=16777220|UserLayerName.Layer28=16908289|UserLayerName.Layer29=16908312|UserLayerName.Layer3=16973834|UserLayerName.Layer30=16777221|UserLayerName.Layer31=16908291|UserLayerName.Layer32=16908308|UserLayerName.Layer33=16973837|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16842756|UserLayerName.Layer8=16973833|UserLayerName.Layer9=16777218|DocumentPath=C:\Users\David Kraeutmann\Documents\Altium\SimulaVR\VXR7200_Bridge\PCB.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=LJLOORKV|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16842753~1,16842756~1,16777220~1,16777221~1,16842754~1,16842757~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908299~1,16908301~1,16908303~1,16908308~1,16908309~1,16908311~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName=PCB_Profile.gbr|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=PCB_Drawing_1.gbr|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillDrawingLayerPair1_Backdrill=False|PlotDrillDrawingLayerPair1_Checked=True|PlotDrillDrawingLayerPair1_DrillType=MicroViaDrill|PlotDrillDrawingLayerPair1_FileName=PCB_Drawing_2.gbr|PlotDrillDrawingLayerPair1_HighLayer=Mid Layer 1|PlotDrillDrawingLayerPair1_LowLayer=Top Layer|PlotDrillDrawingLayerPair2_Backdrill=False|PlotDrillDrawingLayerPair2_Checked=False|PlotDrillDrawingLayerPair2_DrillType=Regular|PlotDrillDrawingLayerPair2_FileName=PCB_Drawing_3.gbr|PlotDrillDrawingLayerPair2_HighLayer=Mid Layer 2|PlotDrillDrawingLayerPair2_LowLayer=Mid Layer 1|PlotDrillDrawingLayerPair3_Backdrill=False|PlotDrillDrawingLayerPair3_Checked=True|PlotDrillDrawingLayerPair3_DrillType=MicroViaDrill|PlotDrillDrawingLayerPair3_FileName=PCB_Drawing_4.gbr|PlotDrillDrawingLayerPair3_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair3_LowLayer=Mid Layer 2|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=PCB_Drillmap_1.gbr|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair1_Backdrill=False|PlotDrillGuideLayerPair1_Checked=True|PlotDrillGuideLayerPair1_DrillType=MicroViaDrill|PlotDrillGuideLayerPair1_FileName=PCB_Drillmap_2.gbr|PlotDrillGuideLayerPair1_HighLayer=Mid Layer 1|PlotDrillGuideLayerPair1_LowLayer=Top Layer|PlotDrillGuideLayerPair2_Backdrill=False|PlotDrillGuideLayerPair2_Checked=False|PlotDrillGuideLayerPair2_DrillType=Regular|PlotDrillGuideLayerPair2_FileName=PCB_Drillmap_3.gbr|PlotDrillGuideLayerPair2_HighLayer=Mid Layer 2|PlotDrillGuideLayerPair2_LowLayer=Mid Layer 1|PlotDrillGuideLayerPair3_Backdrill=False|PlotDrillGuideLayerPair3_Checked=True|PlotDrillGuideLayerPair3_DrillType=MicroViaDrill|PlotDrillGuideLayerPair3_FileName=PCB_Drillmap_4.gbr|PlotDrillGuideLayerPair3_HighLayer=Bottom Layer|PlotDrillGuideLayerPair3_LowLayer=Mid Layer 2|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=PCB_Bottom_3D_Body.gbr|UserLayerName.Caption1=PCB_Paste_Top.gbr|UserLayerName.Caption10=PCB_Soldermask_Bot.gbr|UserLayerName.Caption11=PCB_Copper_Plane_4.gbr|UserLayerName.Caption12=PCB_Copper_Signal_4.gbr|UserLayerName.Caption13=PCB_Copper_Plane_3.gbr|UserLayerName.Caption14=PCB_Filling.gbr|UserLayerName.Caption15=PCB_Copper_Signal_Bot.gbr|UserLayerName.Caption16=PCB_Top_Assembly.gbr|UserLayerName.Caption17=PCB_Capping.gbr|UserLayerName.Caption18=PCB_Mechanical_15.gbr|UserLayerName.Caption19=PCB_Top_Component_Center.gbr|UserLayerName.Caption2=PCB_Legend_Top.gbr|UserLayerName.Caption20=PCB_Copper_Signal_Top.gbr|UserLayerName.Caption21=PCB_Legend_Bot.gbr|UserLayerName.Caption22=PCB_Pads_Top.gbr|UserLayerName.Caption23=PCB_Mechanical_13.gbr|UserLayerName.Caption24=PCB_Bottom_Courtyard.gbr|UserLayerName.Caption25=PCB_Copper_Plane_1.gbr|UserLayerName.Caption26=PCB_Mechanical_11.gbr|UserLayerName.Caption27=PCB_Copper_Signal_2.gbr|UserLayerName.Caption28=PCB_Mechanical_1.gbr|UserLayerName.Caption29=PCB_Bottom_Component_Center.gbr|UserLayerName.Caption3=PCB_Soldermask_Top.gbr|UserLayerName.Caption30=PCB_Copper_Signal_3.gbr|UserLayerName.Caption31=PCB_Top_Courtyard.gbr|UserLayerName.Caption32=PCB_Bottom_Assembly.gbr|UserLayerName.Caption33=PCB_Paste_Bot.gbr|UserLayerName.Caption4=PCB_Board_Outline.gbr|UserLayerName.Caption5=PCB_Top_3D_Body.gbr|UserLayerName.Caption6=PCB_Pads_Bot.gbr|UserLayerName.Caption7=PCB_Copper_Plane_2.gbr|UserLayerName.Caption8=PCB_Keep-out.gbr|UserLayerName.Caption9=PCB_Copper_Signal_1.gbr|UserLayerName.Count=34|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16842757|UserLayerName.Layer12=16777219|UserLayerName.Layer13=16842754|UserLayerName.Layer14=16908294|UserLayerName.Layer15=16842751|UserLayerName.Layer16=16908293|UserLayerName.Layer17=16908295|UserLayerName.Layer18=16908303|UserLayerName.Layer19=16908304|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16777217|UserLayerName.Layer21=16973831|UserLayerName.Layer22=16973848|UserLayerName.Layer23=16908301|UserLayerName.Layer24=16908309|UserLayerName.Layer25=16842753|UserLayerName.Layer26=16908299|UserLayerName.Layer27=16777220|UserLayerName.Layer28=16908289|UserLayerName.Layer29=16908312|UserLayerName.Layer3=16973834|UserLayerName.Layer30=16777221|UserLayerName.Layer31=16908291|UserLayerName.Layer32=16908308|UserLayerName.Layer33=16973833|UserLayerName.Layer4=16908292|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16842756|UserLayerName.Layer8=16973837|UserLayerName.Layer9=16777218|DocumentPath=C:\Users\David Kraeutmann\Documents\Altium\SimulaVR\VXR7200_Bridge\PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
