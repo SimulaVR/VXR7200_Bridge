@@ -898,30 +898,34 @@ DocumentPath=Project Outputs for VXR7200_Bridge\PCB_Top_Courtyard.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\profile
+DocumentPath=Project Outputs for VXR7200_Bridge\Pick Place for PCB.csv
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\tools
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_micro_vias_top-mid1\tools
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Simulation\VXR7200_Bridge.sdf
+DocumentPath=Project Outputs for VXR7200_Bridge\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [GeneratedDocument104]
+DocumentPath=Simulation\VXR7200_Bridge.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument105]
 DocumentPath=VXR7200_Bridge.sdf
 DItemRevisionGUID=
 
@@ -2323,24 +2327,28 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP Color LaserJet Pro M478f-9f PCL-6 (V4) (Network)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=True|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Package / Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79|Column#18=Name:RefDes,Fixed:False,Metric:False,Visible:False,Sort:None,Position:90|Column#19=Name:Mouser Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72|Column#20=Name:Current - Test,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#21=Name:Height - Seated (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#22=Name:Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#23=Name:Number of Terminations,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74|Column#24=Name:Voltage - Rated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:108|Column#25=Name:Source,Fixed:False,Metric:False,Visible:False,Sort:None,Position:96|Column#26=Name:DC Resistance Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#27=Name:Rated Voltage (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:88|Column#28=Name:Mfr_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#29=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#30=Name:Leakage Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#31=Name:Part Number,Fixed:False,Metric:False,Visible:True,Sort:None,Position:81|Column#32=Name:Minimum Order,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#33=Name:Impedance @100MHz,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#34=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73|Column#35=Name:Part Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82|Column#36=Name:Power (Watts),Fixed:False,Metric:False,Visible:False,Sort:None,Position:84|Column#37=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#38=Name:Endurance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#39=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80|Column#40=Name:Ratings,Fixed:False,Metric:False,Visible:False,Sort:None,Position:89|Column#41=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#42=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#43=Name:Capacitance Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#44=Name:Applications,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#45=Name:Load Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#46=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#47=Name:Thickness (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:102|Column#48=Name:Manufacturer_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#49=Name:Height (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#50=Name:Lens Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#51=Name:Design Item ID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#52=Name:Lens Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#53=Name:Lens Transparency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#54=Name:Match Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#55=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:111|Column#56=Name:Voltage - Forward (Vf) (Typ),Fixed:False,Metric:False,Visible:False,Sort:None,Position:107|Column#57=Name:Wavelength - Dominant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:109|Column#58=Name:Operating Temperature Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76|Column#59=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:91|Column#60=Name:Size / Dimension,Fixed:False,Metric:False,Visible:False,Sort:None,Position:95|Column#61=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#62=Name:Case/Size Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#63=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:97|Column#64=Name:Dissipation Factor,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#65=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:103|Column#66=Name:Ripple Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:92|Column#67=Name:Lifecycle Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#68=Name:Mouser Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71|Column#69=Name:Frequency Stability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#70=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:99|Column#71=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#72=Name:Viewing Angle,Fixed:False,Metric:False,Visible:False,Sort:None,Position:106|Column#73=Name:Copyright,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#74=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#75=Name:Supplier Device Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:98|Column#76=Name:Frequency Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#77=Name:Arrow Price/Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#78=Name:Millicandela Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#79=Name:Lens Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#80=Name:LastUpdated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#81=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#82=Name:Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:94|Column#83=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:104|Column#84=Name:Device Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#85=Name:Manufacturer_Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#86=Name:Composition,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#87=Name:Impedance Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#88=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#89=Name:Wavelength - Peak,Fixed:False,Metric:False,Visible:False,Sort:None,Position:110|Column#90=Name:Arrow Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#91=Name:Temperature Coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:101|Column#92=Name:Impedance Max Test Condition,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#93=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#94=Name:Rated Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:87|Column#95=Name:Datasheet Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#96=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78|Column#97=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:105|Column#98=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#99=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#100=Name:Published Date,Fixed:False,Metric:False,Visible:False,Sort:None,Position:86|Column#101=Name:Series,Fixed:False,Metric:False,Visible:False,Sort:None,Position:93|Column#102=Name:Technical Reference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:100|Column#103=Name:ESR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#104=Name:PartId,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83|Column#105=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#106=Name:Features,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#107=Name:Operating Temperature Min,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77|Column#108=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#109=Name:Mounting Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70|Column#110=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:85|Column#111=Name:Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75|Column#112=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:True,Sort:None,Position:60|DocumentPath=C:\Users\David Kraeutmann\Documents\Altium\SimulaVR\VXR7200_Bridge\PCB.PcbDoc
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup5]
 Name=Fabrication Outputs
